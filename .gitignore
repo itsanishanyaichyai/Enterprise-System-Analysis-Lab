@@ -1,0 +1,15 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Temporary and editor files
+*.tmp
+~$*
+
+# Local environment files
+.env
+.venv/
+
+# Operating system files
+.DS_Store
+Thumbs.db
